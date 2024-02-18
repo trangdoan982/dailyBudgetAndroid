@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Daily Budget Android</string>
+    <!--string for login button-->
+    <string name="login_string">Login to Daily Budget</string>
+    <string name="login_button"> Login</string>
+    <!--string for edittext hint in password-->
+    <string name="enter_password">Enter password</string>
+    <!--string for edittext hint in email-->
+    <string name="enter_your_email">Enter your Email</string>
+    <!--string for signup button -->
+    <string name="signup">Sign up</string>
+    <string name="action_register">Create an account</string>
+    <!--string for logout button-->
+    <string name="logout">Logout</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656410217455",
+    "project_id": "daily-budget-7f318",
+    "storage_bucket": "daily-budget-7f318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656410217455:android:40b830571fc982d3f4841a",
+        "android_client_info": {
+          "package_name": "com.example.dailybudgetandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2hcjYu1rdmR2OefIiNNQnvuMVq9k38nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

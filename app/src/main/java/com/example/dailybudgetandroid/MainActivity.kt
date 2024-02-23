@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
 
         val email_input = findViewById<EditText>(R.id.username)
         val password_input = findViewById<EditText>(R.id.password)
-        val login_button = findViewById<Button>(R.id.login)
+//        val login_button = findViewById<Button>(R.id.login)
 
 //        setContent {
 //            DailyBudgetAndroidTheme {

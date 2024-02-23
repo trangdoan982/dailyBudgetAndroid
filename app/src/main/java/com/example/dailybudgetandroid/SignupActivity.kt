@@ -16,13 +16,13 @@ class SignupActivity : AppCompatActivity() {
     private lateinit var progressBar: ProgressBar
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onStart()
+//        super.onStart()
         auth = Firebase.auth
         // Check if user is signed in (non-null) and update UI accordingly.
-        val currentUser = auth.currentUser
-        if (currentUser != null) {
-            // TODO: send to daily budget screen
-        }
+//        val currentUser = auth.currentUser
+//        if (currentUser != null) {
+//            // TODO: send to daily budget screen
+//        }
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_signup)
